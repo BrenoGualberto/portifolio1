@@ -1,6 +1,3 @@
-# portifolio1
-portifolio
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
