@@ -10,7 +10,7 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
   align="left"
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="50px"
   style="padding-right: 10px;"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"
 />
@@ -19,7 +19,7 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
   align="left"
   alt="CSS"
   title="CSS"
-  width="30px"
+  width="50px"
   style="padding-right: 10px;"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
 />
@@ -28,9 +28,9 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
   align="left"
   alt="JS"
   title="JS"
-  width="30px"
+  width="50px"
   style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png"
 />
 
 <img
@@ -44,19 +44,19 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
+  alt="PHP"
+  title="PHP"
+  width="50px"
   style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434"
 />
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
+  alt="SQL"
+  title="SQL"
+  width="50px"
   style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
 />
 
