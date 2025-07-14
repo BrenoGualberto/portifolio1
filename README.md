@@ -64,3 +64,16 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+
+---
+
+### 💻 Exemplo de Trabalhos
+
+<ul>
+  <li>* Conexção com Banco de Dados (SQL e PHP)</li>
+  <li>* Criação de Páginas (HTML, CSS e JS)</li>
+  <li>* Programação de Banco de Dados</li>
+</ul>
+
+
+
