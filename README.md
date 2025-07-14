@@ -1,4 +1,5 @@
-## 👨‍💻 Breno Gualberto
+# 👨‍💻 Breno Gualberto
+---
 
 **`Desenvolvedor FullStack`**
 
