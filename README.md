@@ -65,7 +65,6 @@ Me chamo Breno Gualberto do Nascimento, tenho 18 anos e moro em Pará de Minas -
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
----
 
 ### 💻 Exemplo de Trabalhos
 
